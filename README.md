@@ -20,58 +20,61 @@ My work focuses on building intelligent systems that combine data-driven modelin
 
 ---
 
-## Technical Skills
+## Areas of Interest
 
-**Core Areas**
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1f2937?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-374151?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4b5563?style=flat-square)
-![Generative Models](https://img.shields.io/badge/Generative%20Models-5b2c83?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-6d28d9?style=flat-square)
-
-**Tools & Technologies**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-111827?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-374151?style=flat-square)
-![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-4b5563?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-5b2c83?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4b5563?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1f2937?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-374151?style=for-the-badge)
+![Generative Models](https://img.shields.io/badge/Generative%20Models-5b2c83?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-6d28d9?style=for-the-badge)
 
 ---
 
-## Featured Project
+## Skills
 
-### Climate Data Analysis and Model Evaluation for Emulator Precipitation Downscaling
-
-**Graduation Project**
-
-![Graduation Project Poster](./graduation-project-poster.png)
-
-This project focused on climate data analysis and model evaluation for daily precipitation downscaling, with an emphasis on improving regional rainfall representation and assessing model behavior during extreme weather events.
-
-**Key Contributions**
-
-- Analyzed spatiotemporal climate datasets for daily precipitation downscaling using data visualization, time-series analysis, and spatial map interpretation to examine seasonal variability and extreme rainfall behavior.
-- Evaluated model outputs using numerical metrics such as MAE, MSE, and RMSE, alongside climate-specific metrics to assess predictive accuracy, climatic realism, and extreme-event representation.
-- Improved temporal variability representation with a fine-tuned emulator, achieving **72.71%** compared to **61.28%** for the baseline.
-- Applied interpretability analysis using Explainable AI to examine model focus over extreme-event regions and validate whether learned spatial patterns were climatologically meaningful.
-- Integrated static climate-related features to inform the learning process with physical and geographical factors affecting precipitation.
-
-**Project Technologies**
+### Programming & Query Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Climate Data Analysis](https://img.shields.io/badge/Climate%20Data%20Analysis-111827?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-374151?style=flat-square)
-![XAI](https://img.shields.io/badge/XAI-6d28d9?style=flat-square)
-![Precipitation Downscaling](https://img.shields.io/badge/Precipitation%20Downscaling-5b2c83?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI, Machine Learning & Data Preprocessing
+
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-111827?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-1f2937?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-374151?style=flat-square)
+![Feature Selection](https://img.shields.io/badge/Feature%20Selection-4b5563?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-5b2c83?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6d28d9?style=flat-square)
+
+### Frameworks & Libraries
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### Data Access
+
+![NoSQL Databases](https://img.shields.io/badge/NoSQL%20Databases-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Cloud Data Sources](https://img.shields.io/badge/Cloud%20Data%20Sources-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+## Projects
+
+Projects are organized in separate repositories to keep each project clear, focused, and easy to review.
+
+- [Climate Data Analysis and Model Evaluation for Emulator Precipitation Downscaling](https://github.com/dal-arc/climate-precipitation-downscaling)
 
 ---
 
 ## Contact
-
-I am open to opportunities and collaborations in Artificial Intelligence, Computer Vision, Machine Learning, Deep Learning, and applied AI research.
 
 - **Email:** [daliaalghamdiii@gmail.com](mailto:daliaalghamdiii@gmail.com)
 - **LinkedIn:** [linkedin.com/in/dalia-alghamdi-arc](http://www.linkedin.com/in/dalia-alghamdi-arc)
