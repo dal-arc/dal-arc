@@ -47,7 +47,7 @@ My work focuses on building intelligent systems that combine data-driven modelin
 
 **Graduation Project**
 
-![Graduation Project Poster](./assets/graduation-project-poster.png)
+![Graduation Project Poster](./graduation-project-poster.png)
 
 This project focused on climate data analysis and model evaluation for daily precipitation downscaling, with an emphasis on improving regional rainfall representation and assessing model behavior during extreme weather events.
 
