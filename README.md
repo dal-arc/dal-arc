@@ -71,6 +71,7 @@ My work focuses on building intelligent systems that combine data-driven modelin
 Projects are organized in separate repositories to keep each project clear, focused, and easy to review.
 
 - [Climate Data Analysis and Model Evaluation for Emulator Precipitation Downscaling](https://github.com/dal-arc/climate-precipitation-downscaling)
+- - [Feature Engineering and Visualization for Real-World Clinical Lab Data](https://github.com/dal-arc/clinical-lab-feature-engineering-heatmap)
 
 ---
 
