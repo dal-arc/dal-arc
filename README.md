@@ -62,7 +62,7 @@ My work focuses on building intelligent systems that combine data-driven modelin
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![scikit--image](https://img.shields.io/badge/scikit--image-F7B500?style=flat-square&logo=python&logoColor=white)
-![ImageIO](https://img.shields.io/badge/ImageIO-2E8B57?style=flat-square&logo=python&logoColor=white)
+
 
 ### Tools & Platforms
 
