@@ -38,14 +38,18 @@ My work focuses on building intelligent systems that combine data-driven modelin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI, Machine Learning & Data Preprocessing
+### AI, Machine Learning & Computer Vision
 
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-111827?style=flat-square)
 ![Classification](https://img.shields.io/badge/Classification-1f2937?style=flat-square)
 ![Regression](https://img.shields.io/badge/Regression-374151?style=flat-square)
-![Feature Selection](https://img.shields.io/badge/Feature%20Selection-4b5563?style=flat-square)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-5b2c83?style=flat-square)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6d28d9?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9333ea?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0f766e?style=flat-square)
+![Image Classification](https://img.shields.io/badge/Image%20Classification-0891b2?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-c026d3?style=flat-square)
+![GAN](https://img.shields.io/badge/GAN-db2777?style=flat-square)
 
 ### Frameworks & Libraries
 
@@ -79,7 +83,7 @@ My work focuses on building intelligent systems that combine data-driven modelin
 Projects are organized in separate repositories to keep each project clear, focused, and easy to review.
 
 - [Climate Data Analysis and Model Evaluation for Emulator Precipitation Downscaling](https://github.com/dal-arc/climate-precipitation-downscaling)
-- - [Feature Engineering and Visualization for Real-World Clinical Lab Data](https://github.com/dal-arc/clinical-lab-feature-engineering-heatmap)
+- [Feature Engineering and Visualization for Real-World Clinical Lab Data](https://github.com/dal-arc/clinical-lab-feature-engineering-heatmap)
 
 ---
 
