@@ -50,7 +50,15 @@ My work focuses on building intelligent systems that combine data-driven modelin
 ### Frameworks & Libraries
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Xarray](https://img.shields.io/badge/Xarray-1F77B4?style=flat-square&logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![scikit--image](https://img.shields.io/badge/scikit--image-F7B500?style=flat-square&logo=python&logoColor=white)
+![ImageIO](https://img.shields.io/badge/ImageIO-2E8B57?style=flat-square&logo=python&logoColor=white)
 
 ### Tools & Platforms
 
