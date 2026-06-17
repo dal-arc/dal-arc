@@ -84,6 +84,7 @@ My work focuses on building intelligent systems that combine data-driven modelin
 - [Climate Data Analysis and Model Evaluation for Emulator Precipitation Downscaling](https://github.com/dal-arc/climate-precipitation-downscaling)
 - [Feature Engineering and Visualization for Real-World Clinical Lab Data](https://github.com/dal-arc/clinical-lab-feature-engineering-heatmap)
 - [Time-Tracking-in-Parking--Object-Detection-by-YOLOv8](https://github.com/dal-arc/Time-Tracking-in-Parking--Object-Detection-by-YOLOv8)
+- [Heart-Disease-Risk-Prediction](https://github.com/dal-arc/Heart-Disease-Risk-Prediction.)
 
 
 ## Contact
